@@ -11,6 +11,8 @@
 public class NewClass2 {
   private String name;
   private String jc;
+  
+  f
 
     public NewClass2(String name, String jc) {
         this.name = name;
